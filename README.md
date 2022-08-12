@@ -2,7 +2,7 @@
 
 ![Shoppy](https://github.com/LyonWang25/React_Dashboard/blob/main/src/data/dashboardpc.png)
 
-[Link]:(https://react-dashboard-ecru.vercel.app/)
+[Link]:link(https://react-dashboard-ecru.vercel.app/)
 
 ## Introduction
 
